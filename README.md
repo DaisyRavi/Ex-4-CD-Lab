@@ -63,7 +63,8 @@ void yyerror(char *s) { fprintf(stderr, "Error: %s\n", s);
 }
 ```
 # Output
-![Screenshot 2025-04-25 154509](https://github.com/user-attachments/assets/04842b0e-de5a-4917-b088-925bd57c4884)
+![Screenshot 2025-05-09 155913](https://github.com/user-attachments/assets/e3b6d5c3-ffaa-4d03-a096-96d388588252)
+
 
 
 # Result
